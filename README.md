@@ -1,6 +1,8 @@
 Alexa Smart Home Skill Kit for Particle Devices
 -----------------------------------------------
 
+![Image](https://raw.githubusercontent.com/krvarma/particle-alexa-smart-home-skill/master/images/particle-alexa-smart-home-skill.png)
+
 As you all know Amazon recently release Alexa Smart Home Skill API. Amazon Alexa provides built-in smart home capabilities like turning on/off lights, control air conditioners, etc... Developer can use Alexa Smart Home Skill API to extend the smart home capabilities of Alexa. For Smart Home Skill APIs you don't need to create a custom voice interaction models. Alexa has built-in standard interaction models for smart home, like:
 
 Alexa, turn on lights
