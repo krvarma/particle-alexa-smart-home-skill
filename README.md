@@ -45,6 +45,8 @@ The sample has tow components, Alexa Smart Home Skill and Particle Firmware.
 
 The Particle firmware emulates two lights using LEDs. These LEDs are attached to A4 and A5 pins. The firmware has functions to turn on/off the LEDs and to set the brightness of the LEDs.
 
+![Schematics](https://raw.githubusercontent.com/krvarma/particle-alexa-smart-home-skill/master/images/schematics.png)
+
 ***Alexa Smart Home Skill***
 
 Alexa Smart Home Skill has Skill information and the Lambda function. The Skill information contains the details about the skill such as Skill name, OAuth details, etc... The Lambda function responds to the Smart Home Skill Events.
