@@ -1,4 +1,4 @@
-Alexa Smart Home Skill Kit for Particle Devices
+Alexa Smart Home Skill for Particle Devices
 -----------------------------------------------
 
 ![Image](https://raw.githubusercontent.com/krvarma/particle-alexa-smart-home-skill/master/images/particle-alexa-smart-home-skill.png)
