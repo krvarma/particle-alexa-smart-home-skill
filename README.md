@@ -54,13 +54,9 @@ Alexa Smart Home Skill has Skill information and the Lambda function. The Skill 
 User can interact with skill using voice input such as:
 
 *Alexa, turn on bedroom light*
-
 *Alexa, turn off bedroom light*
-
 *Alexa, turn on kitchen light*
-
 *Alexa, turn off kitchen light*
-
 *Alexa, set kitchen light to 50 percentage*
 
 **Demo Video**
