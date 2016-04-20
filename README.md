@@ -26,6 +26,17 @@ By default the Skill you creates will be private to your account. After testing 
 
 When the device discovery is performed, the Smart Home Skill API will call the Lambda function attached to the Skill with `Alexa.ConnectedHome.Discovery` event. When this event is recevied your Lambda function will return the device list. When the user controls these devices using voice input, the Lambda function attached to the Skill will be called with `Alexa.ConnectedHome.Control` event and you can call the Cloud APIs to control the device. For a more detailed explanation of how to create Skill and Lambda function refer to [this link](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/steps-to-create-a-smart-home-skill).
 
+Some of the screenshots of the Skill Information and Lambda function is given below:
+
+*Skill Information*
+![Skill Information](https://raw.githubusercontent.com/krvarma/particle-alexa-smart-home-skill/master/images/Skill-Information.png)
+
+*Skill Configuration*
+![Skill Configuration](https://raw.githubusercontent.com/krvarma/particle-alexa-smart-home-skill/master/images/Skill-Configuration.png)
+
+*Lambda Function Eventsource*
+![enter image description here](https://raw.githubusercontent.com/krvarma/particle-alexa-smart-home-skill/master/images/Lambda-Event-Source.png)
+
 **Sample Application**
 
 The sample has tow components, Alexa Smart Home Skill and Particle Firmware.
